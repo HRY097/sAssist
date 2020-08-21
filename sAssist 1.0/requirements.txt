@@ -1,0 +1,7 @@
+pyaudio
+pyttsx3
+SpeechRecognition 
+datetime
+wikipedia
+colorama
+termcolor
