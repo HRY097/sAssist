@@ -25,7 +25,7 @@ Functions:-
 
 5. Open Google          = if you will say open google it will open www.google.com in the browser
 
-6. wikipedia            = if you will say wikipedia (and the subject which you want to gather the information) like if you will speak (wikipedia google) then it will show you the info about google
+6. Search Wikipedia     = if you will say wikipedia (and the subject which you want to gather the information) like if you will speak (wikipedia google) then it will show you the info about google
  
 Speacial Features:-
 
