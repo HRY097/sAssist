@@ -2,12 +2,7 @@
 
 This Program automates your computer and makes tasks easier
 
-!!!!!!!!!!!!!!CAUTION!!!!!!!!!!!!!!!!
-|Do not remove or replace any one   |
-|of the files of this folder this   |
-|can prevent the program not to run |
-|properly                           |
-|___________________________________|
+CAUTION - Do not remove or replace any one of the files of this folder this can prevent the program not to run properly      
 
 Steps To Install and Use This Program:-
 
@@ -20,12 +15,17 @@ Steps To Install and Use This Program:-
 
 Functions:-
 
-What is The Time Now = if you will say what is the time then it will tell you the time
-Open Edge            = if you will say open edge then it will open Microsoft Edge Browser in your pc
-Open Chrome          = if you will say open chrome then it will open Google Chrome Browser in your pc 
-Open Youtube         = if you will say open youtube it will open www.youtube.com in the browser
-Open Google          = if you will say open google it will open www.google.com in the browser
-wikipedia            = if you will say wikipedia (and the subject which you want to gather the information) like if you will speak (wikipedia google) then it will show you the info about google
+1. What is The Time Now = if you will say what is the time then it will tell you the time
+
+2. Open Edge            = if you will say open edge then it will open Microsoft Edge Browser in your pc
+
+3. Open Chrome          = if you will say open chrome then it will open Google Chrome Browser in your pc 
+
+4. Open Youtube         = if you will say open youtube it will open www.youtube.com in the browser
+
+5. Open Google          = if you will say open google it will open www.google.com in the browser
+
+6. wikipedia            = if you will say wikipedia (and the subject which you want to gather the information) like if you will speak (wikipedia google) then it will show you the info about google
  
 Speacial Features:-
 
