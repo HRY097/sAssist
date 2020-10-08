@@ -1,6 +1,6 @@
-|sAssist v1.0|
+# sAssist v1.0
 
-This Program automates your computer and makes tasks easier
+This Is The First Release Of sAssist Project
 
 CAUTION - Do not remove or replace any one of the files of this folder this can prevent the program not to run properly      
 
