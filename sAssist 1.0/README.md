@@ -1,7 +1,8 @@
 # sAssist v1.0
 
 # This Is The First Release Of sAssist Project
-   
+<p align="center"><img src="https://i.imgur.com/PbMBS4e.png" /></p>
+
 
 # Steps To Install The Requirements and Use This Program:-
 
