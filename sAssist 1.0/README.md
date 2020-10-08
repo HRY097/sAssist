@@ -6,7 +6,7 @@
 # Steps To Install The Requirements and Use This Program:-
 
 1. Install python3 in your pc (when installing make sure to tick all of them in the left bottom corner ther are some additional things like add to path and more) 
-  link for python3 - https://www.python.org/downloads/release/python-379/
+  Click this [link](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe).<br> to get the newest version of python 
 
 2. After Installing Python3 open the folder open powershell in the sAssist folder by clicking (shift + right) and press (open powershell window here) after that write (pip install -r requirements.txt)
 
