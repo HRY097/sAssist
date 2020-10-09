@@ -1,5 +1,9 @@
 # Modules
+
 import pyaudio, pyttsx3, speech_recognition as sr, random, os, sys, datetime, webbrowser, time, socket
+
+import pyaudio, pyttsx3, speech_recognition as sr, random, os, sys, datetime, wikipedia, webbrowser, time, socket
+
 from colorama import Fore, Back, Style
 # Information
 version = '1.0'
@@ -59,6 +63,14 @@ def speech_to_text():
             return "None"
         return query
     
+def wikipediafunc(query):
+    speak('Searching Wikipedia...')
+    query = query.replace("wikipedia", "")
+    results = wikipedia.summary(query, sentences = 2)
+    speak("According to Wikipedia")
+    print(results)
+    speak(results)
+
     
 # Banner
 print(Fore.GREEN + '''             
@@ -78,6 +90,14 @@ if __name__ == "__main__":
     while True:
         # Taking Input from the user
         query = speech_to_text().lower()
+        # Logic for executing tasks based on query
+        if 'wikipedia' in query:
+            speak('Searching Wikipedia...')
+            query = query.replace("wikipedia", "")
+            results = wikipedia.summary(query, sentences=2)
+            speak("According to Wikipedia")
+            print(results)
+            speak(results)
 
         elif 'open youtube' in query:
             webbrowser.open("youtube.com")
